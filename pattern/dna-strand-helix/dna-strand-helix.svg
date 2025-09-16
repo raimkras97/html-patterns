@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="600" viewBox="0 0 200 600">
+  <rect width="200" height="600" fill="black"/>
+  <!-- Left spiral -->
+  <path d="M50,0 C80,100 80,200 50,300 C20,400 20,500 50,600" stroke="white" stroke-width="2" fill="none"/>
+  <!-- Right spiral -->
+  <path d="M150,0 C120,100 120,200 150,300 C180,400 180,500 150,600" stroke="white" stroke-width="2" fill="none"/>
+  <!-- Connecting lines -->
+  <line x1="50" y1="0" x2="150" y2="0" stroke="white" stroke-width="1"/>
+  <line x1="50" y1="100" x2="150" y2="100" stroke="white" stroke-width="1"/>
+  <line x1="50" y1="200" x2="150" y2="200" stroke="white" stroke-width="1"/>
+  <line x1="50" y1="300" x2="150" y2="300" stroke="white" stroke-width="1"/>
+  <line x1="50" y1="400" x2="150" y2="400" stroke="white" stroke-width="1"/>
+  <line x1="50" y1="500" x2="150" y2="500" stroke="white" stroke-width="1"/>
+  <line x1="50" y1="600" x2="150" y2="600" stroke="white" stroke-width="1"/>
+</svg>

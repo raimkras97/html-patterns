@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="52" viewBox="0 0 60 52">
+  <rect width="60" height="52" fill="black"/>
+  <!-- Left face -->
+  <polygon points="30,0 0,17 30,34" fill="black" stroke="white" stroke-width="1"/>
+  <!-- Right face -->
+  <polygon points="30,0 60,17 30,34" fill="black" stroke="white" stroke-width="1"/>
+  <!-- Bottom face -->
+  <polygon points="0,17 30,34 60,17 30,52" fill="black" stroke="white" stroke-width="1"/>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <rect width="80" height="80" fill="black"/>
+  <!-- Outer diamond -->
+  <path d="M40 0 L80 40 L40 80 L0 40 Z" fill="none" stroke="white" stroke-width="2"/>
+  <!-- Inner diamond -->
+  <path d="M20 40 L40 20 L60 40 L40 60 Z" fill="none" stroke="white" stroke-width="2"/>
+  <!-- Corner-to-midpoint diagonals -->
+  <path d="M0 40 L40 20 L80 40 L40 60 Z" fill="none" stroke="white" stroke-width="1"/>
+  <path d="M40 0 L20 40 L40 80 L60 40 Z" fill="none" stroke="white" stroke-width="1"/>
+  <!-- Extra diagonals for parallelograms -->
+  <path d="M0 40 L40 60 L80 40" fill="none" stroke="white" stroke-width="1"/>
+  <path d="M40 0 L60 40 L40 80" fill="none" stroke="white" stroke-width="1"/>
+</svg>

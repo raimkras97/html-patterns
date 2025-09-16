@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  background: #111;
+  color: white;
+  font-family: sans-serif;
+}
+
+.banner {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+}
+
+.dot-grid {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200%;
+  height: 200%;
+  background-image: url('parallax-grid-dots.svg');
+  background-repeat: repeat;
+  background-size: 40px 40px;
+  transition: background-position 0.1s ease-out;
+  filter: drop-shadow(0 0 3px white);
+}
+
+.banner-text {
+  position: relative;
+  z-index: 1;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 2rem;
+  background: rgba(0,0,0,0.3);
+}
