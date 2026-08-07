@@ -1,4 +1,9 @@
-# html-patterns
+# html-art-portfolio
 
-Animated Pattern Pack
-A collection of six animated, procedural background patterns built with HTML, CSS, and SVG.
+07-08-2026
+- `+` Renovations of this repository,
+- `-` Removed pattern driven content that I personally won't use for my projects (goes to scrap pile),
+- `+` Added new content (no longer pattern based but much more),
+
+What is this?
+This is going to be a portfolio of `.html`, `.css`, `.scss`, `.js`, `.svg`, of my ideas and designs (backgrounds, bars, animations, banners, patterns, gradient colours, minimalism, etc.)
